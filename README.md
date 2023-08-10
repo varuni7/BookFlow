@@ -3,14 +3,11 @@ A simple flask app to manage users along with mysql service
 
 ![Libray Management App - Flask](https://github.com/varuni7/BookFlow)
 
-Certainly! Here's a sample README description for your simple Flask app to manage users along with a MySQL service:
-
----
+ 
 
 # User Management Flask App with MySQL Service
 
-![App Screenshot](screenshot.png)
-
+ 
 This is a simple Flask web application designed for user management, utilizing a MySQL database as its backend storage. The application allows you to perform basic user management tasks such as creating, reading, updating, and deleting user records. It serves as a foundation for understanding how to integrate Flask with a MySQL database for managing user data.
 
 ## Features
@@ -74,25 +71,4 @@ This is a simple Flask web application designed for user management, utilizing a
 Contributions are welcome! Feel free to submit issues or pull requests for improvements, bug fixes, or new features.
 
  
-;; ## Installation
-
-;; To run the app flawlessly, satisfy the requirements
-;; ```bash
-;; $ pip install -r requirements.txt
-;; ```
-
-;; ## Set Environment Variables
-;; ```bash
-;; $ export FLASK_APP=app.py
-;; $ export FLASk_ENV=development
-;; ```
-
-;; ## Start Server
-;; ```bash
-;; $ flask run
-;; ```
-
-;; Or run this command 
-;; ```bash
-;; $ python -m flask run
-;; ```
+ 
